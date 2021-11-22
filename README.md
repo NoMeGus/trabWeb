@@ -6,7 +6,7 @@ composer update
 php artisan migrate:fresh
 php artisan serve
 	
-	A aplicação atende aos seguintes requisitos de usuário:
+A aplicação atende aos seguintes requisitos de usuário:
 - Definir tarefas.
 - Agrupar tarefas em listas.
 - Modificar tarefas e listas.
